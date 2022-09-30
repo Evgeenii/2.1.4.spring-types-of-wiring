@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62c21b39-1331-40b4-968a-a1d328a17aa9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Deth8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Deth8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Duck5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Duck5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Egg6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Egg6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Island2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Island2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Needle7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Needle7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Rabbit4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Rabbit4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Wood3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Wood3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +36,22 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.MainTest">
     <configuration name="koschei.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="koschei.Application" />
@@ -113,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664441519000</updated>
       <workItem from="1664441520192" duration="3298000" />
-      <workItem from="1664444847003" duration="1365000" />
+      <workItem from="1664444847003" duration="2408000" />
     </task>
     <servers />
   </component>
